@@ -1,0 +1,6 @@
+*.class
+.idea/
+*.iml
+src/data/
+src/test/
+out/
